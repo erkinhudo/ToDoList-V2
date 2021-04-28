@@ -1,6 +1,7 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
+  "description" : "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -14,16 +15,7 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/erkinhudo/ToDoList-V2.git"
-  },
-  "bugs": {
-    "url": "https://github.com/erkinhudo/ToDoList-V2/issues"
-  },
-  "homepage": "https://github.com/erkinhudo/ToDoList-V2#readme",
-  "description": ""
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.6"
+  }
 }
